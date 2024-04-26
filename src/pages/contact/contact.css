@@ -1,0 +1,19 @@
+.row.contactpage {
+  background-color:#dfd3c3;
+  
+}
+
+.contactpage {
+  padding: 20px;
+  margin: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+i.icon {
+  display: inline-block;
+  margin-right: 3rem;
+}
+
+

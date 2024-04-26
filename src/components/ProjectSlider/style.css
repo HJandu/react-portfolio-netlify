@@ -1,0 +1,19 @@
+.card {
+    transition: transform 0.5s ease, box-shadow 0.5s ease;
+}
+
+
+.activeSlide .card {
+    transform: scale(1.15); 
+    z-index: 10; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.inactiveSlide .card {
+    transform: scale(0.65); 
+}
+
+/* .w-full.max-w-9xl {
+    margin-top: 300px;
+    padding-top: 300px;
+} */

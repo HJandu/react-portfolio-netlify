@@ -1,0 +1,13 @@
+/* styling for the font on the home page */
+.home .name {
+    font-size: 6.5rem;
+    margin-bottom: 30px;
+  }
+  .home font,
+  .project font {
+    color: rgb(222, 176, 76);
+  }
+
+  div.desc {
+    font-size: 4rem;    
+  }

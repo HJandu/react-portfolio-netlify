@@ -1,0 +1,33 @@
+.container-fluid {
+  padding: 0;
+  margin: 0;
+  /* background-color: #537791; */
+}
+
+.d-inline-block.align-text-top {
+    margin-left: 10px;
+}
+
+
+a.nav-link {
+    color: black;
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-right: 1rem;
+}
+
+a.nav-link:hover {
+    color: rgb(105, 41, 41);
+}
+
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: rgb(213, 213, 213);
+}
+
+.navbar-container-fluid {
+    /* Resetting margins, paddings, and font styles */
+    margin: 0;
+    padding: 0;
+    font-family: inherit; /* Reset font-family if necessary */
+    /* Add more reset styles as needed */
+}

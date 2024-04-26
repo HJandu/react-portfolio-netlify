@@ -1,0 +1,19 @@
+img.h-15 {
+    /* border: 5px solid #555; */
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: rgb(83,119,145) 5px 5px 5px;
+}
+
+
+p.text-black.text-sm {
+    border: 5px solid #555;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 40px;
+}

@@ -1,0 +1,21 @@
+li.social::marker {
+  content: none;
+}
+
+li.social {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+.card-body.icons {
+  text-align: center;
+
+}
+
+.card.border.border-0 {
+    border: 0;
+    background-color: transparent;
+}
+
+
+
