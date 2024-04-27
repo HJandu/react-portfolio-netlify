@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import ImageHome from '../../assets/images/laptop-home.png'
-import './header.css'
+// import './header.css'
 
 export default function Header() {
     const [isNavbarOpen, setIsNavbarOpen] = useState(false);
