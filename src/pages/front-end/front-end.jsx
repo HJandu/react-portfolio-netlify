@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import projects from "../../assets/projects.json";
+import projects from "../../../public/assets/projects2.json";
 import ProjectSingular from "../../components/project/project";
 import SkillsFront from "../../components/Skills/SkillsFront";
 import ProjectSlider from "../../components/ProjectSlider/ProjectSlider";

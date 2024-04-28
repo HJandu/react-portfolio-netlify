@@ -1,4 +1,4 @@
-import projects from "../../assets/projects2.json";
+import projects from "../../../public/assets/projects2.json";
 import ProjectSingular from "../../components/project/project";
 import SkillsData from "../../components/Skills/SkillsData";
 import { motion } from "framer-motion";
