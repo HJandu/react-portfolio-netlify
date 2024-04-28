@@ -1,4 +1,4 @@
-import projects from "./projects";
+import projects from "../data_analytics/projects.js";
 import ProjectSingular from "../../components/project/project";
 import SkillsData from "../../components/Skills/SkillsData";
 import { motion } from "framer-motion";
