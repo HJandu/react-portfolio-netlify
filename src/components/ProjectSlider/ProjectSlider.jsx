@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Slider from 'react-slick';
 import { Card } from 'flowbite-react';
-import projects from '../../../public/assets/projects.json';
+import projects from './projects';
 import './style.css';
 import '../../../node_modules/flowbite/dist/flowbite.css';
 import "slick-carousel/slick/slick.css"; 
