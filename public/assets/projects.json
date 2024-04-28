@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "LyricLift",
-    "image": "../public/assets/images/first_home.jpg",
+    "image": "./images/first_home.jpg",
     "description": "LyricLift is a web application that translates foriegn lyrics into English.",
     "repo": "https://github.com/HJandu/LyricLift",
     "deployed": "https://lyriclift.netlify.app/"
