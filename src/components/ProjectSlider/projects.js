@@ -1,9 +1,9 @@
-import Llift from '../../../public/assets/images/first_home.jpg'
-import hungry from '../../../public/assets/images/main-homescren.jpg'
-import planner from '../../../public/assets/images/front_screen.jpg'
-import weather from '../../../public/assets/images/weather_output.jpg'
-import read from '../../../public/assets/images/readme1.png'
-import quiz from '../../../public/assets/images/codingQ.png'
+import Llift from '../../assets/images/first_home.jpg'
+import hungry from '../../assets/images/main-homescren.jpg'
+import planner from '../../assets/images/front_screen.jpg'
+import weather from '../../assets/images/weather_output.jpg'
+import read from '../../assets/images/readme1.png'
+import quiz from '../../assets/images/codingQ.png'
 
 const projects = [
     {
