@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "Professional ReadMe Generator",
-    "image": "../public/assets/images/readme1.png",
+    "image": "../public/assets/images/Readme1.png",
     "description": "ReadMe Generator will effortlessly create a professional README.md file by using the command-line application to generate one.",
     "repo": "https://github.com/HJandu/professional-readme-generator",
     "deployed": ""

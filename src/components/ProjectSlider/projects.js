@@ -2,7 +2,7 @@ import Llift from '../../assets/images/first_home.jpg'
 import hungry from '../../assets/images/main-homescren.jpg'
 import planner from '../../assets/images/front_screen.jpg'
 import weather from '../../assets/images/weather_output.jpg'
-import read from '../../assets/images/readme1.png'
+import read from '../../assets/images/Readme1.png'
 import quiz from '../../assets/images/codingQ.png'
 
 const projects = [
